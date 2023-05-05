@@ -1,0 +1,1 @@
+# scriptbd-almacenes
